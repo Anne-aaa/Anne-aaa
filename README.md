@@ -5,7 +5,6 @@
 
 - 🔭 I'm a passionate backend engineer with expertise in [Kotlin/Java & Spring Boot].
 - 🌱 I'm currently learning [Spring Boot & AWS].
-- 📫 How to reach me: [your preferred contact method(s), e.g., email, LinkedIn, Twitter].
 
 ---
 
