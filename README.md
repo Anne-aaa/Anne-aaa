@@ -5,7 +5,7 @@
 
 - 🔭 I'm a passionate backend engineer with expertise in [Kotlin/Java & Spring Boot].
 - 🌱 I'm currently learning [Spring Boot & AWS].
-- 📖 I'm recording my blog on: https://anne-aaa.github.io/
+- 📝  I regularly write articles on: https://anne-aaa.github.io/
 ---
 
 ### 🚀 Skills and Technologies
