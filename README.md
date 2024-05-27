@@ -18,7 +18,9 @@
 
 ---
 
+好的,这是修正后的 Markdown 文本:
+
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn Profile](www.linkedin.com/in/keyu-chen-120472309)
-- 📧 [Email Address]([keyu1589@gmail.com](keyu1589@gmail.com))
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/keyu-chen-120472309)
+- 📧 [Email Address](mailto:keyu1589@gmail.com)
