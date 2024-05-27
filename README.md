@@ -20,5 +20,5 @@
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn Profile]([linkedin.com/in/keyu-chen-120472309](https://www.linkedin.com/in/keyu-chen-120472309))
+- 💼 [LinkedIn Profile](www.linkedin.com/in/keyu-chen-120472309)
 - 📧 [Email Address]([keyu1589@gmail.com](keyu1589@gmail.com))
